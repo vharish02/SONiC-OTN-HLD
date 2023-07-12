@@ -3,8 +3,7 @@ The following document contains design review comments for SONiC-OTN. The genera
 
 ## New Design diagram
 
-![image](https://github.com/vharish02/SONiC-OTN-HLD/assets/30084221/f531446c-43e9-4ff6-a78d-2cc54a090492)
-
+![image](https://github.com/vharish02/SONiC-OTN-HLD/blob/main/SONiC-G31-HLD.PNG)
 
 In this design I am introducing 2 new contianers as given below which are exclusively for SONiC-OTN. By adhering to this design we are not changing anything drastic in the exiting SONiC containers and at most might be very little changes if required to support SONiC-OTN.
 
